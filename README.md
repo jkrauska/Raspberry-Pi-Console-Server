@@ -28,7 +28,9 @@ Things to 'worry' about:
  - packaging something nice in a ppa for raspberrian?
  - rolling a dedicated distro (please no)
 
-VERY PROMISING -- https://pypi.python.org/pypi/ConsoleServer
+VERY PROMISING -- 
+https://pypi.python.org/pypi/ConsoleServer
+https://github.com/LawrenceK/console-server
 
 
 ## Grumpy Network/Sysadmin in his 40s rambling on a bit...
