@@ -29,8 +29,14 @@ Things to 'worry' about:
  - rolling a dedicated distro (please no)
 
 VERY PROMISING -- 
+
+console-server package does 80% of the work...
 https://pypi.python.org/pypi/ConsoleServer
 https://github.com/LawrenceK/console-server
+
+this page documents a websockets approach to create a web serial console.
+http://fabacademy.org/archives/2015/doc/WebSocketConsole.html
+
 
 
 ## Grumpy Network/Sysadmin in his 40s rambling on a bit...
